@@ -18,8 +18,6 @@
 
 ---
 
-### Metrics & Activity
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abwii/abwii/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
