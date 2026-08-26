@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  # Exécution automatique tous les jours à minuit
+  schedule:
+    - cron: "0 0 * * *"
+  # Permet de lancer le script manuellement depuis l'onglet Actions
+  workflow_dispatch:
+  # Exécution à chaque push sur la branche principale
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Génération des fichiers SVG du serpent
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Pousser l'image sur la branche output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          # Le GITHUB_TOKEN est fourni automatiquement par GitHub Actions,
+          # tu n'as pas besoin de créer de secret pour celui-ci !
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
