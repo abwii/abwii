@@ -21,9 +21,5 @@
 ### Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abwii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/abwii/abwii/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
