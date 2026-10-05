@@ -1,15 +1,19 @@
-# Hi
+# Hi, I'm Wassim
 
-I'm Wassim, a Fullstack engineer (TypeScript, React/Next.js, Node.js, Java) based in Paris,
-open to a permanent role. 5 years of hands-on experience, including 3 years
-on a high-traffic AdTech platform.
+Fullstack engineer based in Paris, open to a permanent role.
+I build TypeScript web products end to end, from React/Next.js interfaces
+to Node.js APIs, CI/CD and deployment. 5 years of hands-on experience
+(apprenticeships included), including 3 years on a high-traffic AdTech platform.
 
-## Currently building
-- prod-ready-template: monorepo with CI/CD, staging and production
-- subscription-portal: Stripe subscriptions, webhooks, loyalty (in progress)
+## What I'm building now
+- [prod-ready-template](https://github.com/abwii/prod-ready-template): TypeScript monorepo with CI/CD, staging and production environments
+- subscription-portal: Stripe subscriptions, idempotent webhooks, billing lifecycle and loyalty tiers (in progress)
+- cs-analyser: Rust + React tool that parses CS2 demos and visualizes tactics (in progress)
 
 ## Stack
-TypeScript · React · Next.js · Node.js · Java · PostgreSQL · Docker · GitHub Actions · Rust
+**Frontend:** TypeScript · React · Next.js · Vue.js
+**Backend:** Node.js · Java · PostgreSQL · RabbitMQ
+**Tooling:** Docker · GitHub Actions · Turborepo · Rust
 
-## Contact
-[wassimbacha.dev](https://wassimbacha.dev) · [LinkedIn](https://www.linkedin.com/in/bacha-wassim)
+## Elsewhere
+[Portfolio](https://wassimbacha.dev) · [LinkedIn](https://www.linkedin.com/in/bacha-wassim)
