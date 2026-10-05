@@ -12,4 +12,4 @@ on a high-traffic AdTech platform.
 TypeScript · React · Next.js · Node.js · Java · PostgreSQL · Docker · GitHub Actions · Rust
 
 ## Contact
-wassimbacha.dev · LinkedIn · wassimbacha.pro@gmail.com
+[wassimbacha.dev](https://wassimbacha.dev) · [LinkedIn](https://www.linkedin.com/in/bacha-wassim)
