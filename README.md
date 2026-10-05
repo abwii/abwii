@@ -1,17 +1,15 @@
-<h1 align="center">Hello, I'm Wassim</h1>
-<h3 align="center">Fullstack Software Engineer</h3>
+# Hi
 
-<p align="center">
-  <a href="https://wassimbacha.dev">wassimbacha.dev</a> •
-  <a href="https://github.com/abwii">GitHub</a>
-</p>
+I'm Wassim, a Fullstack engineer (TypeScript, React/Next.js, Node.js, Java) based in Paris,
+open to a permanent role. 5 years of hands-on experience, including 3 years
+on a high-traffic AdTech platform.
 
----
+## Currently building
+- prod-ready-template: monorepo with CI/CD, staging and production
+- subscription-portal: Stripe subscriptions, webhooks, loyalty (in progress)
 
-### About Me
+## Stack
+TypeScript · React · Next.js · Node.js · Java · PostgreSQL · Docker · GitHub Actions · Rust
 
-- Software engineering student, specializing in Fullstack development.
-- Passionate about building robust backend architectures and reactive interfaces.
-- Currently exploring **Rust** by developing `CS_Analyser`, a demo analysis tool.
-- Using Arch Linux as my daily driver.
-- Combining code, performance, and automation (Docker, CI/CD).
+## Contact
+wassimbacha.dev · LinkedIn · wassimbacha.pro@gmail.com
