@@ -6,9 +6,8 @@ to Node.js APIs, CI/CD and deployment. 5 years of hands-on experience
 (apprenticeships included), including 3 years on a high-traffic AdTech platform.
 
 ## What I'm building now
-- [prod-ready-template](https://github.com/abwii/prod-ready-template): TypeScript monorepo with CI/CD, staging and production environments
 - subscription-portal: Stripe subscriptions, idempotent webhooks, billing lifecycle and loyalty tiers (in progress)
-- cs-analyser: Rust + React tool that parses CS2 demos and visualizes tactics (in progress)
+- [cs-analyser](https://github.com/abwii/CS_Analyser): Rust + React tool that parses CS2 demos and visualizes tactics (in progress)
 
 ## Stack
 **Frontend:** TypeScript · React · Next.js · Vue.js
